@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, My name is Angga!<br><br>I'm a passionate **Software Developer** and **Tech Enthusiast** who loves building applications that solve real-world problems. Currently, I'm focused on **web development, system design, and automation**.<br><br>🚀 About Me  <br>- 💻 Experienced in **PHP, HTML, CSS and JavaScript<br>- 🔧 Working with **Laravel and TailwindCSS**  <br>- 🎯 Interested in **Graphic Design, UI/UX and AI**  <br>- 📚 Always learning and exploring new technologies  
+👋 Hi there, My name is Angga!<br><br>I'm a passionate **Software Developer** and **Tech Enthusiast** who loves building applications that solve real-world problems. Currently, I'm focused on **web development, system design, and automation**.<br><br>🚀 About Me  <br>- 💻 Experienced in **PHP, HTML, CSS and JavaScript** <br>- 🔧 Working with **Laravel and TailwindCSS**  <br>- 🎯 Interested in **Graphic Design, UI/UX and AI**  <br>- 📚 Always learning and exploring new technologies  
 
 
 ## 🌐 Socials:
